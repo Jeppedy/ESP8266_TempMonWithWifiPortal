@@ -1,0 +1,8 @@
+{
+  "nodeid": "D2",
+  "sleeptimer": 10,
+  "mqtt_clientname": "tempsensor-default",
+  "mqtt_topic": "temperatures",
+  "mqtt_server": "192.168.2.128",
+  "mqtt_port": 1883
+}
